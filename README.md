@@ -78,7 +78,7 @@ ai-native-startup-plan/
 
 ## 来源与版权说明
 
-- 方法论框架、`references/methodology.md` 和 `references/prompts.md` 的内容，提炼自《创始人实战手册：打造 AI 原生初创企业》（*The Founder's Playbook: Building an AI-Native Startup*，Claude 出品）。这部分内容的权利归原作者及译者所有，**不在本仓库许可证的授权范围内**。
+- 方法论框架、`references/methodology.md` 和 `references/prompts.md` 的内容，提炼自《创始人实战手册：打造 AI 原生初创企业》（*The Founder's Playbook: Building an AI-Native Startup*，Claude 出品）。这部分内容的权利归原作者所有，**不在本仓库许可证的授权范围内**。
 - 本仓库作者原创的部分包括问卷设计、阶段门槛判定规则、方案输出模板和技能流程，以 [CC BY 4.0](LICENSE) 许可发布。
 - 如果权利人对本仓库内容有异议，请提交 Issue，我会及时处理。
 
